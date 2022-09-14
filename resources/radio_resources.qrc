@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="/icons">
+    <file>down-arrow.png</file>
+    <file>forward-button.png</file>
+    <file>previous.png</file>
+    <file>upload.png</file>
+    <file>volume.png</file>
+    <file>volume-mute.png</file>
+  </qresource>
+</RCC>

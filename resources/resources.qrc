@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="/icons">
+    <file>manometer.png</file>
+    <file>camera.png</file>
+    <file>location.png</file>
+    <file>menu.png</file>
+    <file>music.png</file>
+    <file>phone-call.png</file>
+    <file>setting.png</file>
+    <file>voice-recorder.png</file>
+    <file>volume-up.png</file>
+  </qresource>
+</RCC>
